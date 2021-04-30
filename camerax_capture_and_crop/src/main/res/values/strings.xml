@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_error">İzinleri vermelisiniz!</string>
+    <string name="unexpected_error">Bilinmeyen kamera hatası ,tekrar deneyiniz.</string>
+    <string name="app_name">lagina</string>
+    <string name="captured_image">Captured image</string>
+</resources>
